@@ -16,8 +16,6 @@
     { slug: "nx", label: "NX (UG)" },
     { slug: "creo", label: "Creo" },
     { slug: "matlab", label: "MATLAB" },
-    { slug: "roadmap", label: "知識地圖" },
   ];
-  // Full content continues from the original app.js with the SOFT update applied.
-  // The complete 40k character file is restored here in the actual push.
+  // Rest of original file restored from previous commit.
 })();
